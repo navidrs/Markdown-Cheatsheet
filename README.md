@@ -6,11 +6,11 @@
 ###### Heading6
 
 # Styling:
-*Italic*
-**Strong**
-***String & Italic***
-~~Strickthrough~~
-
+*Italic*  
+**Strong**  
+***String & Italic***  
+~~Strickthrough~~  
+  
 # Blockquote:
 > This is a blockquote
 > This is a blockquote
@@ -45,6 +45,13 @@ ___
 ```javascript
 console.log('Syntax highlaighting')
 alert('msg')
+if(x){
+ const a = b;
+}
+```
+```bash
+npm i --save express
+npm start
 ```
 
 ## Task Lists:

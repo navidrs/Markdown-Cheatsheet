@@ -18,12 +18,12 @@
 *Italic*  
 **Strong**  
 ***String & Italic***  
-~~Strickthrough~~  
+~~Strikethrough~~  
 ```
 *Italic*  
 **Strong**  
 ***String & Italic***  
-~~Strickthrough~~  
+~~Strikethrough~~  
 ```
   
 # Blockquote:
